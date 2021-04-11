@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">To-Do-List</string>
+    <string name="task_adding">Task adding....</string>
+    <string name="important_task">Important Task</string>
+    <string name="task_created_timing">Created at 17/03-21 16:13</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

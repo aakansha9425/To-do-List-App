@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/tasksFragment2">
+    <fragment
+        android:id="@+id/tasksFragment2"
+        android:name="com.example.to_do_list.ui.task.TasksFragment"
+        android:label="fargment_task"
+        tools:layout="@layout/fargment_task" />
+</navigation>
